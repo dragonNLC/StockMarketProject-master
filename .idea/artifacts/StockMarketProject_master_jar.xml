@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StockMarketProject-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StockMarketProject_master_jar</output-path>
+    <root id="archive" name="StockMarketProject-master.jar">
+      <element id="module-output" name="StockMarketProject-master" />
+    </root>
+  </artifact>
+</component>

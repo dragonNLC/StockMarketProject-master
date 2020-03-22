@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StockMarket">
+    <output-path>$PROJECT_DIR$/out/artifacts/StockMarket</output-path>
+    <root id="archive" name="StockMarket.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="dragon">
+          <element id="directory" name="devl">
+            <element id="directory" name="stock_market">
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/StockMarketProject-master/com/dragon/devl/stock_market/StockMarket$1.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/StockMarketProject-master/com/dragon/devl/stock_market/StockMarket$StockMarketThread.class" />
+              <element id="file-copy" path="$PROJECT_DIR$/out/production/StockMarketProject-master/com/dragon/devl/stock_market/StockMarket.class" />
+            </element>
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
